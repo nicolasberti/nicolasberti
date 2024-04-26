@@ -11,7 +11,7 @@
 
 - (2022) [Sistema de gestión de base de datos en Java](https://github.com/nicolasberti/GestionDeVuelos-MySQL-Java): Desarrollé un sistema integral en Java para la gestión de vuelos en una agencia de viajes, utilizando MySQL como base de datos. Este proyecto destacó mi capacidad para diseñar y desarrollar soluciones eficientes y escalables en entornos empresariales.
 
-También se pueden ver proyectos menores. Como por ejemplo, una calculadora binaria escrita en C utilizando punteros.
+También se pueden ver proyectos menores. Por ejemplo, una calculadora binaria escrita en C utilizando punteros, un sudoku hecho en Java, entre otros.
 
 ## 📱 Contacto
 <p align="left">
