@@ -18,7 +18,7 @@ También se pueden ver proyectos menores. Por ejemplo, una calculadora binaria e
 
 ## 📱 Contacto
 <p align="left">
-<a href="https://linkedin.com/in/nicolasberti69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasberti69" height="30" width="40" /></a>
-<a href="https://instagram.com/_nicolasberti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nicolasberti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nicolasberti69" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/_nicolasberti" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 	
