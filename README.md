@@ -1,5 +1,5 @@
 
-## 🔗 Proyectos relevantes
+## 🔗 Proyectos académicos relevantes
 
 - (2023) [El templo del Fútbol - Ecommerce - Backend](https://github.com/iaw-2023/DeGiusti-Berti-laravel): Desarrollé el backend completo para un ecommerce utilizando el framework Laravel y PostgreSQL como base de datos. Implementé funciones clave como registro de usuarios, gestión de roles, una API restful, paginación y operaciones CRUD. Este proyecto destacó mi capacidad para diseñar y desarrollar soluciones robustas para aplicaciones web.
 
