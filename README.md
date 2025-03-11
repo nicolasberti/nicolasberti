@@ -1,4 +1,5 @@
-# Hi there! I'm Nicolás Berti 👋 I'm Software Engineer
+# Hi there! I'm Nicolás Berti 👋 
+I'm Software Engineer. On GitHub you will find my academic and personal projects. 
 
 ## ⚙️ Skills
 <a href="https://skillicons.dev">
