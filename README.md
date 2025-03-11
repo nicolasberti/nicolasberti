@@ -1,11 +1,9 @@
 # Hi there! I'm Nicolás Berti 👋 I'm Software Engineer
 
 ## ⚙️ Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,spring,php,react,laravel,nodejs,mysql,postgres,postman,docker,git" />
+</a>
 
 ## 📱 Contact
 <p align="left">
