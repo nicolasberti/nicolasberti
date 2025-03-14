@@ -3,7 +3,7 @@
 Soy **Ingeniero en Sistemas de Información**, me recibí en Diciembre de 2024 en la Universidad Nacional del Sur, Bahía Blanca, Buenos, Aires, Argentina. Actualmente estoy buscando alguna oportunidad laboral para empezar mi carrera profesional. Me interesan posiciones en **back-end** o **front-end**. Tengo experiencia mediante una pasantía realizada durante mi formación profesional y diversos proyectos universitario y personales. 
 
 ## ⚙️ Habilidades
-Lista de tecnologías con las cuales he trabajado.
+<p>Lista de tecnologías con las cuales he trabajado.</p>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,spring,php,react,laravel,nodejs,mysql,postgres,postman,docker,git,vercel,supabase" />
 </a>
