@@ -35,7 +35,7 @@ Soy **Ingeniero en Sistemas de Información**, me recibí en Diciembre de 2024 e
 
 I am an **Information Systems Engineer**, I graduated in December 2024 from the Universidad Nacional del Sur, Bahía Blanca, Buenos Aires, Argentina. I am currently looking for a job opportunity to kick-start my professional career. I am interested in positions in the **back-end** or **front-end** areas. I have experience from an internship during my professional training and various university and personal projects.
 
-<p><a href="https://github.com/nicolasberti/nicolasberti/blob/main/CV_Berti_Nicolas_13_03_25_ES.pdf" target="blank"><img alt="Curriculum" src="https://img.shields.io/badge/Curriculum-85adad?style=for-the-badge&logo=data:image/"/></a></p>
+<p><a href="https://github.com/nicolasberti/nicolasberti/blob/main/CV_Berti_Nicolas_13_03_25_ES.pdf" target="blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-85adad?style=for-the-badge&logo=data:image/"/></a></p>
 
 ## ⚙️ Skills
 <p>List of technologies I have worked with:</p>
