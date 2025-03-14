@@ -2,6 +2,9 @@
 
 Soy **Ingeniero en Sistemas de Información**, me recibí en Diciembre de 2024 en la Universidad Nacional del Sur, Bahía Blanca, Buenos, Aires, Argentina. Actualmente estoy buscando alguna oportunidad laboral para empezar mi carrera profesional. Me interesan posiciones en **back-end** o **front-end**. Tengo experiencia mediante una pasantía realizada durante mi formación profesional y diversos proyectos universitario y personales. 
 
+<a href="
+https://github.com/nicolasberti/nicolasberti/blob/main/CV_Berti_Nicolas_13_03_25_ES.pdf" target="blank"><img alt="Curriculum" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Curriculum-85adad?style=for-the-badge&logo=data:image/)"/></a>
+
 ## ⚙️ Habilidades
 <p>Lista de tecnologías con las cuales he trabajado:</p>
 <a href="https://skillicons.dev">
