@@ -16,7 +16,7 @@ Soy **Ingeniero en Sistemas de Información**, me recibí en Diciembre de 2024 e
 
 ## 💼 Proyectos 
 - 🎥 **<a href="https://github.com/nicolasberti/movie-reservation-system">Sistema de reservación de peliculas (Spring Boot, PostgreSQL, Docker)</a>**
-- 📱 **<a href="https://github.com/nicolasberti/Kotlin-App-Android">Aplicación móvil SongInfo (Kotlin)</a>**
+- 📱 **<a href="https://github.com/nicolasberti/Kotlin-App-Android">Aplicación móvil SongInfo (Kotlin, APIs externas)</a>**
 - 🛒 **<a href="https://github.com/tomasdg9/templo-del-futbol-backend">Comercio electrónico back-end (PostgreSQL, Laravel)</a>**
 - 🛒 **<a href="https://github.com/tomasdg9/templo-del-futbol-frontend">Comercio electrónico front-end (React)</a>**
 - 🚀 **<a href="https://github.com/tomasdg9/templo-del-futbol-node">API en NodeJS (NodeJS, Javascript)</a>**
