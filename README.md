@@ -51,7 +51,7 @@ I am an **Information Systems Engineer**, I graduated in December 2024 from the 
 - 🎥 **<a href="https://github.com/nicolasberti/movie-reservation-system">Movie Reservation System (Spring Boot, PostgreSQL, Docker)</a>**
 - 📱 **<a href="https://github.com/nicolasberti/Kotlin-App-Android">SongInfo Mobile App (Kotlin, APIs externas)</a>**
 - 🛒 **<a href="https://github.com/tomasdg9/templo-del-futbol-backend">E-commerce back-end (PostgreSQL, Laravel)</a>**
-- 🛒 **<a href="https://github.com/tomasdg9/templo-del-futbol-frontend">E-commerce electrónico front-end (React)</a>**
+- 🛒 **<a href="https://github.com/tomasdg9/templo-del-futbol-frontend">E-commerce front-end (React)</a>**
 - 🚀 **<a href="https://github.com/tomasdg9/templo-del-futbol-node">API REST in NodeJS (NodeJS, Javascript)</a>**
 - ✈️ **<a href="https://github.com/nicolasberti/GestionDeVuelos-MySQL-Java">Flight System Desktop APP (Java + MySQL)</a>**
 
