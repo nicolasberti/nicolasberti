@@ -15,7 +15,7 @@ Soy **Ingeniero en Sistemas de Información**, me recibí en Diciembre de 2024 e
 - 🤝 **Full Stack Developer @ Universidad Nacional del Sur**: desarrollé como proyecto final de carrera el sistema de gestión de convenios de la Universidad Nacional del Sur. Participé en todas las etapas (análisis, diseño, desarrollo, despliegue) junto con la gente encargada de los convenios en la UNS. Para desarrollar este proyecto utilicé Laravel, PostgreSQL, Vercel, Supabase.
 
 ## 💼 Proyectos 
-- 🧩 **<a href="https://github.com/nicolasberti/ecommerce-scalablem">Comercio eletrónico con Microservicios (Spring Boot, Node.js, MySQL, MongoDB, Redis, Docker, Nginx, Eureka, etc.)</a>**
+- 🧩 **<a href="https://github.com/nicolasberti/ecommerce-scalable">Comercio eletrónico con Microservicios (Spring Boot, Node.js, MySQL, MongoDB, Redis, Docker, Nginx, Eureka, etc.)</a>**
 - 🎥 **<a href="https://github.com/nicolasberti/movie-reservation-system">Sistema de reservación de peliculas (Spring Boot, PostgreSQL, Docker)</a>**
 - 📱 **<a href="https://github.com/nicolasberti/Kotlin-App-Android">Aplicación móvil SongInfo (Kotlin, APIs externas)</a>**
 - 🛒 **<a href="https://github.com/tomasdg9/templo-del-futbol-backend">Comercio electrónico back-end (PostgreSQL, Laravel)</a>**
@@ -49,7 +49,7 @@ I'm an **Software Engineer**, having graduated in December 2024 from the Univers
 - 🤝 **Full Stack Developer @ Universidad Nacional del Sur**: As my final project, I developed the agreement management system for the Universidad Nacional del Sur. I participated in all stages (analysis, design, development, deployment) alongside the people in charge of agreements at the UNS. To develop this project, I used Laravel, PostgreSQL, Vercel, and Supabase.
 
 ## 💼 Projects 
-- 🧩 **<a href="https://github.com/nicolasberti/ecommerce-scalablem">Microservices E-commerce (Spring Boot, Node.js, MySQL, MongoDB, Redis, Docker, Nginx, Eureka, etc.)</a>**
+- 🧩 **<a href="https://github.com/nicolasberti/ecommerce-scalable">Microservices E-commerce (Spring Boot, Node.js, MySQL, MongoDB, Redis, Docker, Nginx, Eureka, etc.)</a>**
 - 🎥 **<a href="https://github.com/nicolasberti/movie-reservation-system">Movie Reservation System (Spring Boot, PostgreSQL, Docker)</a>**
 - 📱 **<a href="https://github.com/nicolasberti/Kotlin-App-Android">SongInfo Mobile App (Kotlin, external APIs)</a>**
 - 🛒 **<a href="https://github.com/tomasdg9/templo-del-futbol-backend">E-commerce back-end (PostgreSQL, Laravel)</a>**
