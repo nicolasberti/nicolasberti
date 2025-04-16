@@ -22,6 +22,7 @@ Soy **Ingeniero en Sistemas de Información**, me recibí en Diciembre de 2024 e
 - 🛒 **<a href="https://github.com/tomasdg9/templo-del-futbol-frontend">Comercio electrónico front-end (React)</a>**
 - 🚀 **<a href="https://github.com/tomasdg9/templo-del-futbol-node">API REST en NodeJS (NodeJS, Javascript)</a>**
 - ✈️ **<a href="https://github.com/nicolasberti/GestionDeVuelos-MySQL-Java">Sistema de vuelos (Java + MySQL)</a>**
+  
 *Proyectos menores disponibles en sección de Repositorios*
 
 ## 📱 Hablemos!
@@ -57,6 +58,7 @@ I'm an **Software Engineer**, having graduated in December 2024 from the Univers
 - 🛒 **<a href="https://github.com/tomasdg9/templo-del-futbol-frontend">E-commerce front-end (React)</a>**
 - 🚀 **<a href="https://github.com/tomasdg9/templo-del-futbol-node">API REST in NodeJS (NodeJS, Javascript)</a>**
 - ✈️ **<a href="https://github.com/nicolasberti/GestionDeVuelos-MySQL-Java">Flight System Desktop APP (Java + MySQL)</a>**
+  
 *Minor projects available in the Repositories section*
 
 ## 📱 Let's contact!
