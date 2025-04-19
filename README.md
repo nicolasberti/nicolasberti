@@ -11,7 +11,7 @@ Soy **Ingeniero en Sistemas de Información**, me recibí en Diciembre de 2024 e
 </a>
 
 ## 💻 Trabajo reciente
-- 📱 **Backend Developer @ Plataforma Sustentable Integral**: participé en el desarrollo de la aplicación móvil "Mov3s" tanto en el front como en el back. Utilizamos React Native, Expo, PHP, NodeJS.
+- 📱 **Backend Developer @ Plataforma Sustentable Integral**: participé en el desarrollo de la aplicación móvil "Mov3s" tanto en el front como en el back. Utilizamos React Native, Expo, PHP, NodeJS, etc.
 - 🤝 **Software Engineer @ Universidad Nacional del Sur**: desarrollé como proyecto final de carrera el sistema de gestión de convenios de la Universidad Nacional del Sur. Participé en todas las etapas (análisis, diseño, desarrollo, despliegue) junto con la gente encargada de los convenios en la UNS. Para desarrollar este proyecto utilicé Laravel, PostgreSQL, Vercel, Supabase.
 
 ## 💼 Proyectos 
@@ -47,7 +47,7 @@ I'm an **Software Engineer**, having graduated in December 2024 from the Univers
 </a>
 
 ## 💻 Recent work
-- 📱 **Backend Developer @ Plataforma Sustentable Integral**: I participated in the development of the mobile app "Mov3s" on both the front and back ends. We used React Native, Expo, PHP, and NodeJS.
+- 📱 **Backend Developer @ Plataforma Sustentable Integral**: I participated in the development of the mobile app "Mov3s" on both the front and back ends. We used React Native, Expo, PHP, and NodeJS, etc.
 - 🤝 **Software Engineer @ Universidad Nacional del Sur**: As my final project, I developed the agreement management system for the Universidad Nacional del Sur. I participated in all stages (analysis, design, development, deployment) alongside the people in charge of agreements at the UNS. To develop this project, I used Laravel, PostgreSQL, Vercel, and Supabase.
 
 ## 💼 Projects 
