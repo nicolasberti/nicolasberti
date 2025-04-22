@@ -2,8 +2,6 @@
 
 Soy **Ingeniero en Sistemas de Información**, me recibí en Diciembre de 2024 en la Universidad Nacional del Sur, Bahía Blanca, Buenos, Aires, Argentina. En mi GitHub podrán encontrar proyectos personales que he ido desarrollando para practicar diversas tecnologías.
 
-<p><a href="https://github.com/nicolasberti/nicolasberti/blob/main/CV_Nicolas_Berti.pdf" target="blank"><img alt="Curriculum" src="https://img.shields.io/badge/Curriculum-85adad?style=for-the-badge&logo=data:image/"/></a></p>
-
 ## ⚙️ Habilidades
 <p>Lista de tecnologías con las cuales he trabajado:</p>
 <a href="https://skillicons.dev">
@@ -37,8 +35,6 @@ Soy **Ingeniero en Sistemas de Información**, me recibí en Diciembre de 2024 e
 # Hi there! I'm Nicolás Berti 👋 (English version)
 
 I'm an **Software Engineer**, having graduated in December 2024 from the Universidad Nacional del Sur, Bahía Blanca, Buenos Aires, Argentina. On my GitHub, you can find personal projects I've been developing to practice various technologies.
-
-<p><a href="https://github.com/nicolasberti/nicolasberti/blob/main/CV_Nicolas_Berti.pdf" target="blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-85adad?style=for-the-badge&logo=data:image/"/></a></p>
 
 ## ⚙️ Skills
 <p>List of technologies I have worked with:</p>
