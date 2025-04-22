@@ -5,7 +5,7 @@ Soy **Ingeniero en Sistemas de Información**, me recibí en Diciembre de 2024 e
 ## ⚙️ Habilidades
 <p>Lista de tecnologías con las cuales he trabajado:</p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,spring,php,react,laravel,nodejs,mysql,postgres,postman,docker,git,vercel,supabase" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,php,react,laravel,nodejs,mysql,postgres,postman,docker,git,vercel,supabase" />
 </a>
 
 ## 💻 Trabajo reciente
@@ -39,7 +39,7 @@ I'm an **Software Engineer**, having graduated in December 2024 from the Univers
 ## ⚙️ Skills
 <p>List of technologies I have worked with:</p>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,spring,php,react,laravel,nodejs,mysql,postgres,postman,docker,git,vercel,supabase" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,spring,php,react,laravel,nodejs,mysql,postgres,postman,docker,git,vercel,supabase" />
 </a>
 
 ## 💻 Recent work
