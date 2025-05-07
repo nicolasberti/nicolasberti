@@ -1,4 +1,4 @@
-# Hola! Soy Nicolás Berti 👋 (versión en Español)
+# Hola! Soy Nicolás Berti 👋
 
 Soy **Ingeniero en Sistemas de Información**, me recibí en Diciembre de 2024 en la Universidad Nacional del Sur, Bahía Blanca, Buenos, Aires, Argentina. En mi GitHub podrán encontrar proyectos personales que he ido desarrollando para practicar diversas tecnologías.
 
